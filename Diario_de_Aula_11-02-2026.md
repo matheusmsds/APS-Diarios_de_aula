@@ -21,7 +21,8 @@ Entregas parciais constantes ou uma única entrega? Qual é a melhor?
 
 ---
 
-1 - Buscam um prof
+1 - As empresas buscam profissionais capacitados tecnicamente e com habilidades individuais, conhecidas como soft skills.
+
 2- APS - Análise e Projeto de Sistemas. Contém três fases fundamentais (primordiais): Planejamento, Estruturação e Implantação. Entre as fases, há duas etapas essenciais: Verificar (se o que você fez está certo) e Validar (se você entendeu o que fez). 
 Problemas comuns: Comunicação
 
