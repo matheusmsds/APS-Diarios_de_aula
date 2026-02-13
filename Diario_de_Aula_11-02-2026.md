@@ -1,17 +1,22 @@
-# Diario_de_Aula_11-02-2026
+## Avaliação
+A avaliação trimestal será uma prova escrita ou uma avaliação das softskils apresentadas e do ecossistema dos alunos durante o trimestre
+
+## Ementa
+> Modelagem de software orientada a objetos. Conceitos de software, qualidade, requisitos e projeto de software. Notações para registro de modelos orientados a objetos. Processo de requisitos, definições básicas, elicitação, análise, especificação, verificação e validação de requisitos. Modelos e métodos da engenharia de requisitos. Gerência de projetos de engenharia de requisitos. Relação do processo de projeto arquitetural com requisitos.
+>
 ---
 1) O que as empresas buscam em um profissional?
 2) O que seria APS? Qual atividade seria a primordial?
 3) Soft skills ou habilidades técnicas?
 4) Ecossistema (rede de ações pessoais): o que é? caras e nomes diferentes - é o mais valioso de todos!
 5) Uso de IA:
-Pode usar?
-Quais os limites?
-Qual é a sua responsabilidade?
+-Pode usar?
+-Quais os limites?
+-Qual é a sua responsabilidade?
 6) Como as empresas trabalham em projetos?
-Equipes?
-Prática ou teoria?
-Como acontece a avaliação? Qual é a melhor, uma única avaliação ou avaliação periódica?
+-Equipes?
+-Prática ou teoria?
+-Como acontece a avaliação? Qual é a melhor, uma única avaliação ou avaliação periódica?
 Entregas parciais constantes ou uma única entrega? Qual é a melhor?
 
 ---
