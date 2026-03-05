@@ -1,5 +1,5 @@
 # Retomada
-Qualidade = expectativa do usuário
+Qualidade -> expectativa do usuário
 
 ### Fases do ciclo de vida do desenvolvimento de software
 
