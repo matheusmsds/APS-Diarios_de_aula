@@ -12,7 +12,6 @@ Fase 6: implementação
 Fase 7: manutenção  
 
 **Vantagens do ciclo:** padronização e qualidade.
-
 ---
 
 # Levantamento de Dados
