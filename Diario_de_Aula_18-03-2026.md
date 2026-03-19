@@ -103,3 +103,5 @@
 - Já aconteceu alguma situação que o sistema não conseguiu resolver?
 - Qual foi o maior problema que você já enfrentou aqui?
 - Existe algo importante que não foi perguntado?
+
+IA foi utilizada para ajudar a estruturar esse documento e organizar as categorias.
